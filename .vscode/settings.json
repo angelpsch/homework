@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "schema",
+            "driver": "MySQL",
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "name": "MySQL80",
+            "password": "8423Debit!",
+            "port": 3306,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    "liveServer.settings.port": 3307
+}

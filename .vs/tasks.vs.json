@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-OpenFolder",
+      "appliesTo": "../../../AppData/Local/Microsoft/VisualStudio/16.0_9cddc417/OpenFolder/",
+      "type": "launch"
+    }
+  ]
+}
